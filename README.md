@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Swapnil Sachan</h1>
+<img align = "center" alt="Coding" width="1500"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif">
+<br>
+
+<h1 align="center">Hi 👋, I'm Swapnil</h1>
 <h3 align="center">A computer science student & passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil-sachan&label=Profile%20views&color=1fb5db&style=flat" alt="swapnil-sachan" /> </p>
@@ -6,12 +9,12 @@
 <p align="left"> <a href="https://twitter.com/swapnilsachan03" target="blank"><img src="https://img.shields.io/twitter/follow/swapnilsachan03?logo=twitter&style=for-the-badge" alt="swapnilsachan03" /></a> </p>
 
 - 🔭 I’m currently working on [CollegeNotes](https://www.collegenotes.co.in/)
-
 - 🌱 I’m currently learning **python and machine learning.**
-
 - 💬 Ask me about **full-stack development & DS&A.**
-
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.cpp`
 - 📫 How to reach me **swapnilsachan03@gmail.com**
+- 😄 My pronouns are he not him, 'cause I'll never be him!
+- ⚡️ Fun fact: *I code and go gym* 🔱
 
 <br>
 

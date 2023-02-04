@@ -1,6 +1,3 @@
-<img align = "center" alt="Coding" width="1500"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif">
-<br>
-
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
 <h3 align="center">A computer science student & passionate full-stack developer</h3>
 

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CollegeNotes](https://www.collegenotes.co.in/)
 - 🌱 I’m currently learning **python and machine learning.**
-- 💬 Ask me about **full-stack development & DS&A.**
+- 💬 Ask me about **full-stack development & DSA.**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.cpp`
 - 📫 How to reach me **swapnilsachan03@gmail.com**
 - 😄 My pronouns are he not him, 'cause I'll never be him!

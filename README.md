@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm स्वप्निल</h1>
+<h1 align="center">Hi 👋🏼, I'm स्वप्निल</h1>
 <h3 align="center">A computer science student & passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil-sachan&label=Profile%20views&color=1fb5db&style=flat" alt="swapnil-sachan" /> </p>

@@ -10,7 +10,7 @@
 - 💬 Ask me about **full-stack development & DSA.**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.cpp`
 - 📫 How to reach me **swapnilsachan03@gmail.com**
-- 😩 My pronouns are he and not him, 'cause I'll never be him!
+- ⛱️ My pronouns are he, not him!
 - ⚡️ Fun fact: *I code and go gym* 🔱
 
 <br>

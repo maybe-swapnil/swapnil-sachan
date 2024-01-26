@@ -2,7 +2,7 @@
 <h3 align="center">A computer science student & passionate full-stack developer</h3>
 
 ### 🧑🏽‍🦱 About Me
-🔭 I’m currently working on CollegeNotes<br>
+🔭 I’m currently working on an Online Judge<br>
 🌱 I’m planning to learn python and machine learning.<br>
 💬 Ask me about full-stack development & DSA.<br>
 ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.cpp`<br>
@@ -22,9 +22,9 @@
 <br>
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=swapnil-sachan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=swapnil-sachan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil-sachan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=swapnilsachan03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=swapnilsachan03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilsachan03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 

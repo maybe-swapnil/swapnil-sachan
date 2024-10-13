@@ -2,9 +2,9 @@
 <h3 align="center">A computer science student & passionate full-stack developer</h3>
 
 ### 🧑🏽‍🦱 About Me
-🔭 I’m currently working on an Online Judge<br>
-🌱 I’m planning to learn python and machine learning.<br>
-💬 Ask me about full-stack development & DSA.<br>
+🔭 I’m an Intern at a SaaS company<br>
+🌱 I like to work on and am currently learning to write robust backend systems & APIs<br>
+💬 Ask me about JS + data structures<br>
 ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.cpp`<br>
 📫 How to reach me swapnilsachan03@gmail.com<br>
 ⚡️ I code and hit the gym<br>

@@ -2,8 +2,8 @@
 <h3 align="center">A computer science student & passionate full-stack developer</h3>
 
 ### 🧑🏽‍🦱 About Me
-🔭 I’m an Intern at a SaaS company<br>
-🌱 I like to work on and am currently learning to write robust backend systems & APIs<br>
+🔭 Frontend intern<br>
+🌱 I am currently learning to write APIs in Go<br>
 💬 Ask me about JS + data structures<br>
 ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.cpp`<br>
 📫 How to reach me swapnilsachan03@gmail.com<br>
